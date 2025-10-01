@@ -4,7 +4,6 @@ A foundational and secure implementation of the ERC20 standard for EVM-compatibl
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue) ![License](https://img.shields.io/badge/license-None-lightgrey) ![Stars](https://img.shields.io/github/stars/MBoreham/Simple-ERC20Token?style=social) ![Forks](https://img.shields.io/github/forks/MBoreham/Simple-ERC20Token?style=social) ![Top Language](https://img.shields.io/github/languages/top/MBoreham/Simple-ERC20Token?color=orange)
 
-![ERC20 Token Preview]([preview-image])
 
 ---
 
@@ -17,6 +16,19 @@ This project provides a robust and straightforward implementation of the ERC20 t
 *   **🛡️ Security-Focused Design:** Developed with best practices in Solidity to minimize common vulnerabilities and ensure the integrity and safety of token operations.
 *   **🧪 Robust Testing with Foundry:** Includes a comprehensive test suite built using the Foundry development framework, providing high confidence in the token's functionality and reliability.
 *   **🚀 Simple & Extensible:** A clean, minimal codebase that is easy to understand, audit, and extend for future functionalities or custom tokenomics.
+
+  OpenZepplin Contracts
+
+  A library for secure smart contract development. Build on a solid foundation of community-vetted code.
+
+Implementations of standards like ERC20 and ERC721.
+Flexible role-based permissioning scheme.
+Reusable Solidity components to build custom contracts and complex decentralized systems.
+🧙 Not sure how to get started? Check out Contracts Wizard — an interactive smart contract generator.
+
+Important
+
+OpenZeppelin Contracts uses semantic versioning to communicate backwards compatibility of its API and storage layout. For upgradeable contracts, the storage layout of different major versions should be assumed incompatible, for example, it is unsafe to upgrade from 4.9.3 to 5.0.0. Learn more at Backwards Compatibility.
 
 ---
 
