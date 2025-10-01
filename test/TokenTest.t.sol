@@ -125,6 +125,4 @@ contract TokenTest is Test {
         vm.prank(bob);
         token.approve(alice, 20 ether);
     }
-
 }
-
